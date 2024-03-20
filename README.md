@@ -1,2 +1,1 @@
 # BOM
-so nc BOM
